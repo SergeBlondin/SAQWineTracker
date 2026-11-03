@@ -1,0 +1,7 @@
+This project was renamed and moved.
+
+New path: /Users/sergebl/Documents/QuebecWineWatch/
+Bundle ID: com.sergebl.QuebecWineWatch
+Display name: Québec Wine Watch
+
+Open QuebecWineWatch.xcodeproj from the new folder.
